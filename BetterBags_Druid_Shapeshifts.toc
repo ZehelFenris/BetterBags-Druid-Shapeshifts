@@ -1,0 +1,7 @@
+## Interface: 100200
+## Title: BetterBags - Druid shapeshifts
+## Author: Zehel Fenris
+## Version: 1.0
+## Notes: Category for all the druid shapeshift items.
+
+BetterBags_Druid_Shapeshifts.lua
