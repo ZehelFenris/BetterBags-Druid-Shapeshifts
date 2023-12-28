@@ -3,5 +3,6 @@
 ## Author: Zehel Fenris
 ## Version: 1.0
 ## Notes: Category for all the druid shapeshift items.
+## X-Curse-Project-ID: 955052
 
 BetterBags_Druid_Shapeshifts.lua
