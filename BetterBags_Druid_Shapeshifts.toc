@@ -1,8 +1,8 @@
 ## Interface: 100200
-## Title: BetterBags - Druid shapeshifts
+## Title: BetterBags - Druid Shapeshifts
 ## Author: Zehel Fenris
-## Version: 1.0
+## Version: 1.0.0
 ## Notes: Category for all the druid shapeshift items.
 ## X-Curse-Project-ID: 955052
 
-BetterBags_Druid_Shapeshifts.lua
+main.lua
